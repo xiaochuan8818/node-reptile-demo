@@ -1,0 +1,20 @@
+{
+  "name": "pachong",
+  "version": "1.0.0",
+  "description": "node 爬虫demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "http": "^0.0.0",
+    "iconv-lite": "^0.4.19"
+  },
+  "devDependencies": {
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.9"
+  }
+}
